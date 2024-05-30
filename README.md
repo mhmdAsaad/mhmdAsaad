@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed AL-Qaisi</h1>
 <h3 align="center">Computer and Network Engineer | Full-Stack Web Developer  | Mobile Developer (Flutter)</h3>
 
-- 🔭 I’m currently working on JibalApps
+- 🔭 I’m currently working on ***JibalApps***
 
 - 🌱 I’m currently learning **data analysis**
 
